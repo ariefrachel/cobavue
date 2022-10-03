@@ -1,0 +1,104 @@
+{
+  "wisata-terbaik": [
+    {
+      "id": 1,
+      "kode": "pwt",
+      "nama": "Paket Wisata Purwokerto",
+      "harga": 439000,
+      "is_ready": true,
+      "gambar": "pwt.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "dng",
+      "nama": "Paket Wisata Dieng",
+      "harga": 679000,
+      "is_ready": true,
+      "gambar": "dng.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "lbk",
+      "nama": "Paket Wisata Lombok",
+      "harga": 2000000,
+      "is_ready": true,
+      "gambar": "lbk.jpg"
+    }
+  ],
+  "wisata": [
+    {
+      "id": 1,
+      "kode": "pwt",
+      "nama": "Paket Wisata Purwokerto",
+      "harga": 249000,
+      "is_ready": true,
+      "gambar": "pwt.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "pbl",
+      "nama": "Paket Wisata Purbalingga",
+      "harga": 259000,
+      "is_ready": true,
+      "gambar": "pbl.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "bjn",
+      "nama": "Paket Wisata Banjarnegara",
+      "harga": 499000,
+      "is_ready": true,
+      "gambar": "bjn.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "dng",
+      "nama": "Paket Wisata Dieng",
+      "harga": 679000,
+      "is_ready": true,
+      "gambar": "dng.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "smg",
+      "nama": "Paket Wisata Semarang",
+      "harga": 270000,
+      "is_ready": true,
+      "gambar": "smg.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "jgj",
+      "nama": "Paket Wisata Jogjakarta",
+      "harga": 600000,
+      "is_ready": true,
+      "gambar": "jgj.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "bdn",
+      "nama": "Paket Wisata Bandung",
+      "harga": 800000,
+      "is_ready": true,
+      "gambar": "bdn.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "lbk",
+      "nama": "Paket Wisata Lombok",
+      "harga": 2000000,
+      "is_ready": true,
+      "gambar": "lbk.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "bli",
+      "nama": "Paket Wisata Bali",
+      "harga": 1500000,
+      "is_ready": true,
+      "gambar": "bli.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}

@@ -1,0 +1,22 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+
+.btn {
+    padding:10px 20px 10px 20px;
+}
+
+.btn-primary {
+    background:#F75D68;
+    border:none;
+}
+
+.btn-primary:hover {
+    background:#9A5362;
+}
+
